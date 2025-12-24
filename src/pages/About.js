@@ -3,7 +3,8 @@ export default function About(){
   return (
     <section className="about">
       <h2>About Siri Optics Trade</h2>
-      <p>Classic eyewear curated with precision. Replace this text with your business story and team details.</p>
+      <p>Classic eyewear curated with precision. Replace this text with your business story and team details.
+         An experienced eye doctor with the required skill does the work for all customers .</p>
     </section>
   );
 }
