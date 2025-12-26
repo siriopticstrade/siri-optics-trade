@@ -1,3 +1,15 @@
+import Header from "./components/Header";
+
+function App() {
+  return (
+    <>
+      <Header />
+      {/* rest of your app */}
+    </>
+  );
+}
+
+export default App;
 import React, { useState } from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
 import Shop from './pages/Shop';

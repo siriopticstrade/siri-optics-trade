@@ -1,0 +1,28 @@
+.topbar {
+  background: #000;
+  color: #fff;
+  padding: 1.2rem 0;
+  text-align: center;
+}
+
+.brand {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 0.6rem;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
